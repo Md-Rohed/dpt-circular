@@ -26,8 +26,12 @@ To run project
 - Modularization and Component Structure
 - Improved Indentation and Readability
 
-## Best Live Frontend projects
+## Live Frontend projects
 
 - https://amarpet.com/
 - https://robodocbd.com/
+
+## personal Git repositories
+- https://github.com/Md-Rohed/Anime-App
+- https://github.com/Md-Rohed/Go__Explore
 
