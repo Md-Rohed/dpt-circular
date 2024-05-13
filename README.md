@@ -1,8 +1,33 @@
-# React + Vite
+## Technologies
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+- Javascript
+- Tailwind CSS
+- React.JS
+- API
 
-Currently, two official plugins are available:
+## How to run
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+To run project
+
+```bash
+  git clone https://github.com/Md-Rohed/dpt-circular.git
+  npm i
+  npm run dev
+```
+
+## Completed in
+
+- 2 hour +-
+
+## Best Practices
+
+- Consistent Naming Convention
+- Proper Use of State and State Management
+- Modularization and Component Structure
+- Improved Indentation and Readability
+
+## Best Live Frontend projects
+
+- https://amarpet.com/
+- https://robodocbd.com/
+
