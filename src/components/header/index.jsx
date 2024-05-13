@@ -11,14 +11,14 @@ const Header = () => {
   ];
 
   return (
-    <header className="bg-primary py-3 flex justify-between items-center px-[7.25rem] font-ubuntu">
-      <ul className="text-white flex gap-10 text-xs">
+    <header className="bg-primary py-3 flex justify-between items-center px-[15rem] fixed w-full">
+      <ul className="text-white flex gap-10">
         {menuItems.map((item, index) => (
           <MenuItem key={index} title={item.title} link={item.link} />
         ))}
       </ul>
       <div className="text-white flex items-center gap-2">
-        <GrNotification className="text-sm" />
+        <GrNotification className="" />
       </div>
     </header>
   );

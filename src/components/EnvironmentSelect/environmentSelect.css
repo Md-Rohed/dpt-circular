@@ -1,0 +1,8 @@
+/* CSS */
+.input-checkbox:checked + .label-text {
+  background-color: blue;
+}
+
+.input-checkbox:checked + .label-text p {
+  color: brown;
+}
