@@ -19,6 +19,13 @@ const Header = () => {
       </ul>
       <div className="text-white flex items-center gap-2">
         <GrNotification className="" />
+        <div>
+          <img
+            src="https://i.ibb.co/xDGxphN/rohed.jpg"
+            className="w-[2rem] h-[2rem] rounded-full"
+            alt=""
+          />
+        </div>
       </div>
     </header>
   );

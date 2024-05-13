@@ -3,7 +3,7 @@ import { useState } from "react";
 const Tab = ({ tabName, activeTab, onClick }) => (
   <button
     type="button"
-    className={`w-[8rem] text-center text-[14px] py-1 ${
+    className={`w-[8rem] text-center text-[14px] py-3 ${
       activeTab === tabName ? "bg-blue-900 text-gray-200" : ""
     }`}
     onClick={() => onClick(tabName)}
